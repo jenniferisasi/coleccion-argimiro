@@ -56,9 +56,7 @@
 
          <closer>
          <salute>a Dios escribe pronto</salute>
-            <signed>
-               <signatures rend="handwritten"> <persName key="marceliano">Marceliano</persName> e <persName key="ines">Inés</persName> </signatures>
-            </signed>
+            <signed><signatures rend="handwritten"> <persName key="marceliano">Marceliano</persName> e <persName key="ines">Inés</persName> </signatures></signed>
          </closer>
 <postscript>
   <p>recuerdos para <persName key="abilio">Abilio</persName></p>
