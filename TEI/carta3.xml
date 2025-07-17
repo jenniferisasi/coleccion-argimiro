@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="carta3">Carta de Marceliano e Inés a Argimiro</title>
+                    <author>Inés Delgado</author>
+                    <editor>Jennifer Isasi</editor>
+        <respStmt>
+        <resp>Codificación de</resp>
+               <persName>Jennifer Isasi</persName>
+            </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Jennifer Isasi</publisher>
+      <date>16/07/2025</date>
+        <pubPlace>State College, Pennsylvania, EEUU</pubPlace>
+        <availability>
+          <p>Se comparte bajo una licencia Creative Commons CC-BY (4.0)</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+            <p>Carta manuscrita en papel a bolígrafo azul con firma de Marceliano e Inés</p>
+            </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  <body>
+  <div type="recto"> 
+<dateline>
+ Villambroz
+ <date when="1966-04-02">2 de abril de 1966</date>
+ </dateline>
+<salute>Queridísimo <persName key="argimiro">hijo</persName></salute>
+
+<p><lb/>dirás que me eretrasado en contestarte no? por que con los ganas que tendras de saber de nosotros berda. aunque se an las noticias como quieran pero las esperas no? Bueno pues a lla ban.</p>
+
+<p><lb/>En primer lugar que rras saber de tu <persName key="marceliano">padre</persName> no es eso qui es, es tubimos en <placeName type ="ciudad" key="valladolid">Valladoliz</placeName> el Juebes a <persName key="donJose">don Jose</persName> que tu padre sienpre a tenido muchos ganas de ir a el, iya le dimos ese gusto, y nos dijo que era un reumatismo nose como lo llamo el que dependia de la cadera que no estaba bien, que era mui doloroso imui duro de quitar, a ora nos mando un tratamiento dijo un poco duro de in yeciones i muchas cosas pero le mando que andubiera bastante, aunque le doliara y con trabajo, que nose que dara sen tao sin andar por que sino asi dolia bastante que llegaba a no poderse mober y se le secaria la pierna, asi que fijate como anda, nopuede dar un paso sin la cacha, es ta cojísimo y con muchos dolores, cuando fuimos a <placeName type ="ciudad" key="palencia">Palencia</placeName> al medico parecoa que abia mejorado un poco, pero le duro poco la mejoría y a ora cadabes peor nose aora con este tratamiento de <persName key="donJose">don Jose</persName> que aremos, me temo que nada, estamos gastando muchisimo, y alfin nose si a de lantaremos algo, asi que aora la fuerza de los dias iba <persName key="amparo">Anparo</persName> de pastora aora como le a mandado que ande pues an preparado unos estribos para fijar los pies, puesto en la burra, iba con las obejas alla como puede cosi arrastro el pobre por que no baya todos los dias la chiquita, muchos dias bael a lla comopuede, por que silebes como cojia nose como anda por el monte, claro dice el que nosabemos nosotros lo que pasa el por alla por que dice que a nada que tropieze, dice que como que sele parte esa pierna, todo el dia, toda la noche se esta quejando</p>
+
+<p><lb/>como un animo, asi que nose sipo dra ir mucho tiempo con las Obejas, sopena que con este trata miento tanto mejore Dios loqui era, sino nose que aremos con ellas por que dar las a guardar nopo demos por que cuesta muchisimo la guarda ino rinden paraeso aqui las Obejas. Ven derlas mientras labremos nose puede por que son Obejas a qui nose puede [???], por que no secoje para valerte por que tene mos unos pagos de miedo, asi que yo no ago namas que pensar que co mo lo aremos que como nos a reglaremos, y a llorar a si que estamos sufri endo mas que nose, por que sibes atu<persName key="marceliano">padre</persName> nole conoces parece un [???] con [???], para ponerle en la burra sebe [iscolesea??], asi que nose que sera denosotros Dios sobretodo imirara por nosotros, sino nose que aremos, bueno de esto note digo mas yo creo que yate puedes acer una idea como lo pasamos.</p>
+
+<p><lb/>De <placeName type ="pueblo" key="munguia">munguia</placeName> pareceser que <persName key="orencio">Orencio</persName> mar cha mui bien en ese trabajo de esa fabrica no? Dios quiera que nobuelba a tener moa trooiezos por que bamos, este año nos a tocado la loteria anos otros, notenia mos bastante con lo de tu<persName key="marceliano">padre</persName> que se arimo lode <persName key="orencio">Orencio</persName>, asi que des pues lomio, de ma nera que no estamos de queja, de sufumientos bendito sea Dios ya nos le premiara por otra parte.</p>
+
+<p><lb/>Bueno tenemos un tiempo bueno las Obejas marchan bien nose a muerto niun cordero, nada mas que todos son machos solo 6 corderas de 60 que ai a parir, asi que fijate poco bamos a aumentar el ganado para otro año pero lo que acefalta es que tu <persName key="marceliano">padre</persName> se ponga bueno para poder irconellas aunque sean algunos menos noimporta.</p>
+
+
+<p><lb/>Tutio <persName key="indalencio">Inda</persName> marcaron para <placeName type ="pais" key="francia">Francia</placeName> para el <date when="1966-04-15">15 del coriente</date> mar chan los mismos que iban ai. <persName key="estrella">Estrellita</persName> esta echa una moza mui salado, dice sino biene <persName key="orencio">padre</persName>papá y <persName key="resti">mama</persName> que no bangan como quiere mucho a <persName key="marceliano">buelito</persName> y a <persName key="ines">buelita</persName> ique esta muy negrina pero muy rica </p> 
+
+<p><lb/>beuno mu chisimos besos y a brazos de todos en especial de tus her manos y de tus padres recibe lo quemasquieras  que losom</p>
+
+
+         <closer>
+         <salute>a Dios escribe pronto</salute>
+            <signed>
+               <signatures rend="handwritten"> <persName key="marceliano">Marceliano</persName> e <persName key="ines">Inés</persName> </signatures>
+            </signed>
+         </closer>
+<postscript>
+  <p>recuerdos para Abilio</p>
+</postscript>  
+
+</div>
+
+ </body>
+
+</text>
+</TEI>
