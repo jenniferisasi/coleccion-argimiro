@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="carta5">Carta de Orencio a Argimiro</title>
+                    <author>Orencio Velasco Delgado</author>
+                    <editor>Jennifer Isasi</editor>
+        <respStmt>
+        <resp>Codificación de</resp>
+               <persName>Jennifer Isasi</persName>
+            </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Jennifer Isasi</publisher>
+      <date>17/07/2025</date>
+        <pubPlace>State College, Pennsylvania, EEUU</pubPlace>
+        <availability>
+          <p>Se comparte bajo una licencia Creative Commons CC-BY (4.0)</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+            <p>Carta manuscrita en papel a bolígrafo azul con firma de Orencio Velasco</p>
+            </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  <body>
+  <div type="recto"> 
+<dateline>
+ <date when="1954-04">marzo-abril de 1954</date>
+ <placeName type ="ciudad" key="burgos">Burgos</placeName> Regimiento Infantería San Marcial Nº 7 - 7 Setima Compañia
+</dateline>
+
+<pb n="p1"/>
+<salute>Querido <persName key="argimiro">Hermano</persName> saluz y bien estar te deseo en compañia de tus padres y amigos quedando la mía vien a Dios gracias.</salute>
+
+<p><lb/>Bueno <persName key="argimiro">Argimiro</persName> te escribo estas cuatro letras para decirte que sepas de mi y al mismo tiempo para que decirte lo que estoy pasando. pues te dire que estoy medio tonto porque no nos dejan mirar cuando a coser botones o tearica y si no aguardiendo la estrucion.
+Porque como nos dan tanto aparato que no se ni lo que tengo no se si dare cuenta en ocho dias.</p>
+
+<p><lb/> Lo primero que noshizon nadamas de llegar al regimiento fue cortarnos el pelo y llebarnos al botiquin y despues nos llebaron a la ducha asi que no digo mas de esto nadamas que estoy tonto. 
+</p>
+<p><lb/>De lo que me dices en tu carta de eso no te puedo decir nada porque no conozco a ninguno y el unico conocido que tengo en mi compañia es uno de <placeName type ="pueblo" key="sanmartin">San Martin</placeName> y <persName key="vicentesastre">Vicente Sastre</persName> esta en el mismo Regimiento pero en diferente compañia nadamas que nos bemos todos los dias y eso que todavia no salimos de paseo pero el dia que nos dejan salir nos vemos todos los dias.</p>
+
+<pb n="p2"/>
+
+<p><lb/>También te dire que in salio de casa el dia 4 del actual y de <placeName type ="ciudad" key="palencia">Palencia</placeName> a las 3 de la mañana a desayunar en <placeName type ="pueblo" key="ventadebaños">Benta de Baños</placeName> que no lo pude comer y a <placeName type ="ciudad" key="burgos">Burgos</placeName> a las 11 de la mañnaa de viaje me lo pase muy bien.</p>
+
+
+<p><lb/>en <placeName type ="ciudad" key="palencia">Palencia</placeName> estuvimos todo el dia con <persName key="angelmisas">Angel</persName> el de la <persName key="julianabarrionuevo">tia Juliana.</persName> estuve viendo <placeName type ="edificio" key="catedralpalencia">la catedral</placeName> y me gusto mucho.</p>
+
+<p><lb/>pues por aho ahora no te digo mas y te contare mas cuando ya sepa la instrucion.</p>
+
+         <closer>
+         <salute>Con esto se despide tu <persName key="orencio">hermano</persName> que no te olvida y te quiere mucho a Dios a Dios</salute>
+            <signed><signatures rend="handwritten"> <persName key="orencio">Orencio Velasco</persName></signatures></signed>
+         </closer>
+<postscript>
+  <p><lb/>Las señas son estas</p>
+  <p><lb/>Regimiento Infanteria <placeName key="sanmarcial">San Marcial</placeName></p>
+  <p><lb/>7a Compañia Burgos</p>
+</postscript>  
+
+</div>
+
+ </body>
+
+</text>
+</TEI>
