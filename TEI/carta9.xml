@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="carta9">Carta de Orencio a Argimiro</title>
+                    <author>Orencio Velasco Delgado</author>
+                    <editor>Jennifer Isasi</editor>
+        <respStmt>
+        <resp>Codificación de</resp>
+               <persName>Jennifer Isasi</persName>
+            </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Jennifer Isasi</publisher>
+      <date>18/07/2025</date>
+        <pubPlace>State College, Pennsylvania, EEUU</pubPlace>
+        <availability>
+          <p>Se comparte bajo una licencia Creative Commons CC-BY (4.0)</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+            <p>Carta manuscrita en papel a bolígrafo azul con firma de Orencio Velasco</p>
+            </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  <body>
+  <div type="recto"> 
+<dateline>
+ <date when="1954-06-04">a 4 de 6 = 54</date>
+ <placeName type ="ciudad" key="burgos">Burgos</placeName> 
+</dateline>
+
+<pb n="p1"/>
+
+<salute>Querido <persName key="argimiro">hermano</persName> saluz te deseo, guardando la mia por el momento bien <note xml:id="GAD">G.A.D.</note></salute>
+
+<p><lb/>Bueno <persName key="argimiro">Argimiro</persName> cojo la pluma en estos momentos para dar contestacion a tu cariñosa carta que ya hace unos dias que la recibi, y al mismo tiempo para dar contarte por donde me encuentro, pues ahora ya estoy en el cuartel bajo el dia 26 que ganas tenia, siquiera y aqui dormimos en buena cama y con sabanas ensumado [??] en <placeName type ="pueblo" key="cubillo">Cubillo</placeName> a dormir en cuatro tablas y comer en el [???] igual llubiendo que calentando pues aqui aunque nos dan poco lo comemos agusto en el comedor. </p>
+
+<p><lb/>Y aqui no tenemos tanto trabajo aunque por las mañanas todavia nos lleban acer estacion pero es cosa de poco no es nadamas para que [??-ido] lo que sabemos y ensayando para encaso de Guerra y para hir ahora del 10 al 20 a maniobras lo que nose donde hiremos ni cuantos dias seran pero deben de ser bastantes malos lo primero que tenemos que andar mucho y bastante peligro porque porque tenemos que tirar muchos tiros y debe de ser por la noche asi que fijate pero bueno que le bamos hacer no tener miedo que Dios tendra cuidado de mi para que no me pase nada y ya es lo p???] de toda <note xml:id="mili">la mili</note> lo demas ya no me mete miedo nada, asi</p>
+
+<pb n="p2"/>
+
+<p><lb/>que pide mucho por mi que yo tambien pido por ti todo lo que puedo y no me olvides como yo ati que yo la mili si no la paso peor que hasta ahora bien marcho pues todavia no etenido ninguna guardia ni arrestos de ninguna clase y no les queria tirar <del type="overstrike">que</del> al poder que pueda si Dios quiere asi lo haré.</p>
+
+<p><lb/>Bueno <persName key="argimiro">Argimiro</persName> pues te contestare lo que abido estos <note xml:id="sampedros">dias de San Pedro</note> que son las fiestas de Burgos pues habido mucho que ber pues muchos cines y liceos [?] y de todas clases y <note xml:id="circoamericano">el circo Americano</note> que tiene animales de todas clase asi que se pasa bastante bien.</p>
+
+<p><lb/>Y los domingos nos dice la misa en el patio de cuartel y nos hecha unos sermones bien y todos los juebes tenemos confesion con el Padre que nos esploca de todo y muy bien de lo que me dices ue me confiese amenudo pues lo boy hacer por lo menos los primeros biernes de mes que son los dias que nos dejan salir a las Iglesias de fuera asi que te are caso que este padre nos lo encomienta mucho.</p>
+
+<p><lb/>Pues de por aqui no te puedo contar mas hayer tube carta de casa y me dicen que habias dicho tu que hibas a benir a casa unos dias. pues asi sea y haber si para primeros de Agosto puedo ir tanbien y nos podemos ber todos juntos porque <persName key="basilio">Basilio</persName> me decian que llegaria en estos dias pues ganas tengo de poder hechar una parlada juntos pues nose cuando podra ser. </p>
+
+<closer>
+         <salute>Bueno y sin mas se despide este tu hermano que lo es y no te puede olvidar dandote un abrazo. </salute>
+            <signed><signatures rend="handwritten"><persName key="orencio">Orencio Velasco</persName></signatures></signed>
+            a Dios
+            asta la tuya que <unclear></unclear>
+         </closer>
+
+<postscript>
+  <p><lb/>Recuerdos de <persName key="basilio">Vicente</persName> y de un primo</p>
+</postscript>  
+
+</div>
+
+ </body>
+
+</text>
+</TEI>
