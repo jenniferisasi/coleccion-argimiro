@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="audio1">Argimiro sobre Busa</title>
+                    <author>Argimiro Velasco Delgado</author>
+                    <editor>Jennifer Isasi</editor>
+        <respStmt>
+        <resp>Codificación de</resp>
+               <persName>Jennifer Isasi</persName>
+            </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Jennifer Isasi</publisher>
+      <date>21/07/2025</date>
+        <pubPlace>State College, Pennsylvania, EEUU</pubPlace>
+        <availability>
+          <p>Queda prohibida su reproducción completa o parcial sin permiso.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+            <p>Audio de WhatsApp enviado por Argimiro en resputa a una petición de Jennifer</p>
+            </sourceDesc>
+    </fileDesc>
+
+<profileDesc>
+  <correspDesc>
+      <correspAction type="sentBy">
+        <persName xml:id="argimiro">Argimiro Velasco Delgado</persName>
+        <placeName key="valencia">Torrent</placeName>
+      </correspAction>
+
+      <correspAction type="deliveredTo">
+        <persName xml:id="jennifer">Jennifer Isasi</persName>  
+        <placeName key="statecollege">State College, PA, USA</placeName>
+      </correspAction>
+     </correspDesc>
+  </profileDesc>
+</teiHeader>
+
+  <text>
+  <body>
+  <div type="recto"> 
+<dateline>
+ <date when="2020-12-06">6 de diciembre de 2020</date>
+ <placeName type ="ciudad" key="torrent">Torrent</placeName>
+ </dateline>
+
+<pb n="p1"/>
+<salute>Queridísimo <persName key="argimiro">hijo</persName></salute>
+
+<p><lb/><persName key="jennifer">Jennifer</persName>, acabo de recibir tu WhatsApp he podido leer bien dos veces está todo muy bien de lo que me dices. En cuanto al <persName key="busa">Padre Busa</persName> no sé si será el padre o no pero es un gran nombre una gran figura con una labor increíble porque esto es una verdadera obra maestra y de una autoridad, al menos para los de mi generación y para los anteriores hubiera sido mucho más no sé para los que vienen en otras generaciones. Sí, no les parecerá que si yo pues una ABC las primeras letras, pero es un gran hombre.</p>
+
+<p><lb/>Si no es el padre, es un gran pionero, dejando esa parte que veo que tú también has oído hablar de él , es un gran hombre el era jesuita y yo soy dominico pero se apreciadas las sodas de todo el mundo lo que me pides, haz lo que te parezca no tengo inconveniente ninguno y la propuesta que haces de hacer unas preguntas y que yo las pueda responder pues adelante tienes toda mi autorización y simplemente te lo agradezco porque así por si conocerán algunas cosas algo los que entren en esas en esas páginas o en esos web ya sabes que yo lo tengo justo para recibir escribir </p>
+
+
+         <closer>
+         <salute>te envío un abrazo muy grande y unos besos adiós y ya está haz lo que te parezca lo que mejor te parezca. Un beso</salute>            
+         </closer>
+
+</div>
+
+ </body>
+
+</text>
+</TEI>
