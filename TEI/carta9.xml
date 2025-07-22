@@ -11,9 +11,9 @@
                     <author>Orencio Velasco Delgado</author>
                     <editor>Jennifer Isasi</editor>
         <respStmt>
-        <resp>Codificación de</resp>
+          <resp>Codificación de</resp>
                <persName>Jennifer Isasi</persName>
-            </respStmt>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Jennifer Isasi</publisher>
@@ -23,12 +23,35 @@
           <p>Se comparte bajo una licencia Creative Commons CC-BY (4.0)</p>
         </availability>
       </publicationStmt>
+      
       <sourceDesc>
-            <p>Carta manuscrita en papel a bolígrafo azul con firma de Orencio Velasco</p>
-            </sourceDesc>
+        <bibl>
+           <author>Orencio Velasco Delgado</author>
+           <title>Carta manuscrita en papel a bolígrafo azul con firma de Orencio Velasco</title>
+           <date when="1954-06-04">a 4 de 6 = 54</date>
+           <extent>2 páginas</extent>
+        </bibl>
+      </sourceDesc>
+   
     </fileDesc>
-  </teiHeader>
-  <text>
+
+<profileDesc>
+  <correspDesc>
+      <correspAction type="sentBy">
+        <persName xml:id="orencio">Orencio Velasco Delgado</persName>
+        <placeName key="burgos">Burgos</placeName>
+      </correspAction>
+
+      <correspAction type="deliveredTo">
+        <persName xml:id="argimiro">Argimiro Velasco Delgado</persName>  
+        <placeName key="valencia">Valencia</placeName>
+      </correspAction>
+     </correspDesc>
+  </profileDesc>
+</teiHeader>
+  
+<text>
+  
   <body>
   <div type="recto"> 
 <dateline>
