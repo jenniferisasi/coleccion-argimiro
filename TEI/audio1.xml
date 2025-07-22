@@ -45,13 +45,12 @@
 
   <text>
   <body>
-  <div type="recto"> 
+  <div> 
 <dateline>
  <date when="2020-12-06">6 de diciembre de 2020</date>
  <placeName type ="ciudad" key="torrent">Torrent</placeName>
  </dateline>
 
-<pb n="p1"/>
 <salute>Mi querida <persName key="jennifer">Jennifer</persName>, mi sobrinica.</salute>
 
 <p>00:06<lb/>Acabo de recibir tu WhatsApp. He podido leer bien, dos veces, está todo muy bien.</p>
