@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Título,,,DCTERMS.title,headline
 alt_title,Títulos alternativos,,,DCTERMS.alt_title,alt_title
 creator,Autor/a,,,DCTERMS.creator,creator
+recipient, Receptor,,,DCTERMS.creator, recipient
 editor,Editores/as,,,DCTERMS.editor,editor
 date,Fecha de publicación/creación,,,DCTERMS.date,dateCreated
 location,Lugar de publicación/creación,,,,contentLocation
